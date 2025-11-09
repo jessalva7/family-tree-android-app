@@ -1,0 +1,42 @@
+# GitHub Repository Description
+
+## Short Description (for GitHub repo description field):
+```
+A modern Android app for creating and managing family trees with search, relationships (parents, spouse, children, siblings, friends), and beautiful Material Design 3 UI. Built with Jetpack Compose & Kotlin.
+```
+
+## Topics/Tags (for GitHub):
+```
+android
+kotlin
+jetpack-compose
+material-design
+family-tree
+genealogy
+android-app
+mvvm
+material-design-3
+mobile-app
+family-relationships
+compose-ui
+```
+
+## About Section:
+```
+📱 Modern Family Tree Android App
+✨ Material Design 3 with Jetpack Compose
+🔍 Search & filter people instantly
+👨‍👩‍👧‍👦 Manage 5 relationship types
+🎨 Beautiful full-screen person cards
+📊 Bidirectional relationship sync
+```
+
+## Website (if you deploy docs):
+Leave blank or add your GitHub Pages URL
+
+## Usage in GitHub:
+1. Go to your repository settings
+2. Add the short description to the "Description" field
+3. Add the topics/tags in the "Topics" section
+4. The README.md will display automatically on the main page
+
